@@ -1,0 +1,7 @@
+C:\Users\KOTIKA SAIDAIAH\Desktop\Dotnet Projects\PlayerAndTeamProject\PlayerAndTeamProject\bin\Debug\PlayerAndTeamProject.exe.config
+C:\Users\KOTIKA SAIDAIAH\Desktop\Dotnet Projects\PlayerAndTeamProject\PlayerAndTeamProject\bin\Debug\PlayerAndTeamProject.exe
+C:\Users\KOTIKA SAIDAIAH\Desktop\Dotnet Projects\PlayerAndTeamProject\PlayerAndTeamProject\bin\Debug\PlayerAndTeamProject.pdb
+C:\Users\KOTIKA SAIDAIAH\Desktop\Dotnet Projects\PlayerAndTeamProject\PlayerAndTeamProject\obj\Debug\PlayerAndTeamProject.csproj.AssemblyReference.cache
+C:\Users\KOTIKA SAIDAIAH\Desktop\Dotnet Projects\PlayerAndTeamProject\PlayerAndTeamProject\obj\Debug\PlayerAndTeamProject.csproj.CoreCompileInputs.cache
+C:\Users\KOTIKA SAIDAIAH\Desktop\Dotnet Projects\PlayerAndTeamProject\PlayerAndTeamProject\obj\Debug\PlayerAndTeamProject.exe
+C:\Users\KOTIKA SAIDAIAH\Desktop\Dotnet Projects\PlayerAndTeamProject\PlayerAndTeamProject\obj\Debug\PlayerAndTeamProject.pdb
